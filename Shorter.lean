@@ -1,6 +1,13 @@
 
 import GlimpseOfLean.Library.Short
 
+/-
+In this exercise I learned how to use basic tactics like `ring`, `congr`, `simp`, 
+  and `calc`to alter equalities and inequalities. I practiced reasoning with numbers and functions.
+In this short track I practiced using basic lean proofs and got comfortable using them. 
+
+-/
+
 /- # A shorter Glimpse of Lean
 
 This file is the short track of the Glimpse of Lean project. It is meant for people
